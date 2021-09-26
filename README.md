@@ -100,5 +100,5 @@ binding.clickButton.setOnClickListener {
 ---
 
 ### Reference
-[https://developer.android.com/topic/libraries/view-binding](https://developer.android.com/topic/libraries/view-binding)
+[https://developer.android.com/topic/libraries/view-binding](https://developer.android.com/topic/libraries/view-binding)  
 [Android Studio 4.1에서 제거된 Kotlin Android Extensions을 알아보자.](https://thdev.tech/android/2020/10/07/Remove-kotlinx-synthetic/)
