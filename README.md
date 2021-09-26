@@ -1,14 +1,20 @@
 # Android_Practice_Kotlin
-코틀린으로 제작하는 안드로이드 클론코딩 연습
+코틀린으로 제작하는 안드로이드 클론코딩 연습  
+Java -> Flutter -> Java -> Kotlin  
+이제 그만 갈아타고 제대로 연습하려 합니다.  
+클론 코딩부터 차근차근 끝내자.
 
 ## 개요
-안드로이드 폰이 동작하지 않아 Flutter로 갈아탔다가...  
-<br>
-다시 동작하여 Java로 왔다가...  
-<br>
-Kotlin으로 갈아타기 위해 클론코딩 연습을 합니다.  
-<br>
-이제 그만 갈아타고 클론코딩부터 차근차근 끝내자
+1. 기본 앱 ([01_FirstApp](https://github.com/l4279625/Android_Practice_Kotlin/tree/master/01_FirstApp))
+2. 비만도 계산기 ([02_BmiCalculator](https://github.com/l4279625/Android_Practice_Kotlin/tree/master/02_BmiCalculator))
+3. 스톱워치
+4. 나만의 웹 브라우저
+5. 수평 측정기
+6. 전자액자
+7. 지도와 GPS
+8. 손전등
+9. 실로폰
+10. Todo 리스트
 <br><br>
 
 # 프로젝트 생성 후 해야할 것
